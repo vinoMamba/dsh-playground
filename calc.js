@@ -1,6 +1,6 @@
-/** 简易计算器。注意：sum 有 bug。 */
+/** 简易计算器。 */
 function sum(a, b) {
-  return a * b
+  return a + b
 }
 
 function divide(a, b) {
